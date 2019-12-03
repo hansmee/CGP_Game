@@ -1,7 +1,7 @@
 #include "cgmath.h"			// slee's simple math library
 #include "cgut.h"			// slee's OpenGL utility
 #include "circle.h"			// circle class definition
-
+//hi
 //*************************************
 // global constants
 static const char*	window_name = "cgcirc";
